@@ -481,6 +481,27 @@ const languages: IconData[] = [
         height: 26.391,
         xOffset: -6,
     },
+    {
+        name: ['zig'],
+        colorFrom: "#F7A41D',
+        colorTo: '##F7A41D',
+        icon: `<svg id="zig-logo" data-name="zig-logo" xmlns="https://www.w3.org/2000/svg" width="42.885 height="26.391" viewBox="0 0 42.885 26.391">
+        <path id="Path_147" data-name="Path 147" d="46,22 28,44 19,30">
+        <path id="Path_148" data-name="Path 148" d="46,22 33,33 28,44 22,44 22,95 31,95 20,100 12,117 0,117 0,22">
+        <path id="Path_149" data-name="Path 149" d="31,95 12,117 4,106">
+        <path id="Path_150" data-name="Path 150" d="56,22 62,36 37,44">
+        <path id="Path_151" data-name="Path 151" d="56,22 111,22 111,44 37,44 56,32">
+        <path id="Path_152" data-name="Path 152" d="116,95 97,117 90,104">
+        <path id="Path_153" data-name="Path 153" d="116,95 100,104 97,117 42,117 42,95">
+        <path id="Path_154" data-name="Path 154" d="150,0 52,117 3,140 101,22">
+        <path id="Path_155" data-name="Path 155" d="141,22 140,40 122,45">
+        <path id="Path_156" data-name="Path 156" d="153,22 153,117 106,117 120,105 125,95 131,95 131,45 122,45 132,36 141,22">
+        <path id="Path_157" data-name="Path 157" d="125,95 130,110 106,117">
+        </svg>`,
+        width: 42.885
+        height: 26.391
+        xOffset: -6,
+    },
 ]
 
 export default languages
